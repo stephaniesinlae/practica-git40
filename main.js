@@ -6,4 +6,6 @@
 // git add . // agregar los arachivos al staging area
 // git commit -m "comentario"
 // git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
-// git push -u origin master
+// git push origin master
+
+console.log('Holaaaa');
